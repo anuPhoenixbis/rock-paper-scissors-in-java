@@ -6,5 +6,7 @@ This is simple Rock Paper Scissor server implemented in Java. It's meant to be a
 
 A simple REST interface is exposed on [http://localhost:8080/games].
 
+# Hello
+
 
 Licensed under the [MIT license](https://opensource.org/licenses/MIT).
